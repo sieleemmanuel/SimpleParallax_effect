@@ -1,0 +1,28 @@
+div{
+    /* background-color: grey; */
+    height: 600px;
+}
+.blueblocks{
+    background-color: rgb(95, 185, 10);
+}
+h1{
+text-align: center;
+margin: 0 auto;
+padding-top:0;
+
+
+}
+p{
+text-align: center;
+margin: 0 auto;
+padding: 0;
+}
+.parallax-window{
+    color: white;
+}
+.center{
+    width: 600px;
+    padding-top: 200px;
+    margin: 0 auto;
+
+}
